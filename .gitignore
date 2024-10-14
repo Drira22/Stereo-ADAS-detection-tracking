@@ -1,3 +1,4 @@
 data/
 __pycache__/
 .venv/
+faster_rcnn_kitti.pth
